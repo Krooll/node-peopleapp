@@ -1,0 +1,122 @@
+[
+  {
+    "gender": "male",
+    "firstName": "Paweł",
+    "lastName": "Foks",
+    "age": 43
+  },
+  {
+    "gender": "male",
+    "firstName": "Michał",
+    "lastName": "Zgoda",
+    "age": 64
+  },
+  {
+    "gender": "female",
+    "firstName": "Edyta",
+    "lastName": "Zgoda",
+    "age": 25
+  },
+  {
+    "gender": "female",
+    "firstName": "Agata",
+    "lastName": "Pulit",
+    "age": 60
+  },
+  {
+    "gender": "male",
+    "firstName": "Igor",
+    "lastName": "Foks",
+    "age": 26
+  },
+  {
+    "gender": "male",
+    "firstName": "Paweł",
+    "lastName": "Foks",
+    "age": 43
+  },
+  {
+    "gender": "male",
+    "firstName": "Zygmunt",
+    "lastName": "Krupnik",
+    "age": 57
+  },
+  {
+    "gender": "male",
+    "firstName": "Zygmunt",
+    "lastName": "Ładzik",
+    "age": 35
+  },
+  {
+    "gender": "female",
+    "firstName": "Elżbieta",
+    "lastName": "Pulit",
+    "age": 56
+  },
+  {
+    "gender": "female",
+    "firstName": "Edyta",
+    "lastName": "Drążek",
+    "age": 21
+  },
+  {
+    "gender": "female",
+    "firstName": "Paulina",
+    "lastName": "Kownacka",
+    "age": 30
+  },
+  {
+    "gender": "male",
+    "firstName": "Ferdynant",
+    "lastName": "Kownacka",
+    "age": 53
+  },
+  {
+    "gender": "female",
+    "firstName": "Alicja",
+    "lastName": "Drążek",
+    "age": 33
+  },
+  {
+    "gender": "male",
+    "firstName": "Igor",
+    "lastName": "Krupnik",
+    "age": 60
+  },
+  {
+    "gender": "male",
+    "firstName": "Adrian",
+    "lastName": "Ładzik",
+    "age": 52
+  },
+  {
+    "gender": "female",
+    "firstName": "Michalina",
+    "lastName": "Kownacka",
+    "age": 27
+  },
+  {
+    "gender": "male",
+    "firstName": "Paweł",
+    "lastName": "Drążek",
+    "age": 28
+  },
+  {
+    "gender": "female",
+    "firstName": "Alicja",
+    "lastName": "Kownacka",
+    "age": 58
+  },
+  {
+    "gender": "female",
+    "firstName": "Marta",
+    "lastName": "Ładzik",
+    "age": 48
+  },
+  {
+    "gender": "male",
+    "firstName": "Zygmunt",
+    "lastName": "Małysiak",
+    "age": 31
+  }
+]
